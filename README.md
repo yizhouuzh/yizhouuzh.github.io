@@ -1,3 +1,3 @@
-# yizhouuzh.github.io
+# Alvaro
 
 Welcome to my personal page. 
