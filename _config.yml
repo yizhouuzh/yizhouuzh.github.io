@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Yizhou's personal page.
 description: The page is set up for sharing my daily experience (especially for my academic experience.)
+yamlconfig:
+  list:
+    - About []()
+    - Curriculum Vitae []()
+    - Project []()
+    - Miscellanous []()
