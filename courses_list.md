@@ -2,7 +2,7 @@
 
 STATS 551: Bayesian Statistics [Project Repo](https://github.com/yizhouuzh/stats551-final-project)\
 STATS 504: Practice and communication in Applied Statistics\
-SI 671: Data Mining\
+SI 671: Data Mining [Project Repo](https://github.com/yizhouuzh/Data-Mining-with-IMDB)\
 STATS 750: Directed Reading (Advised by [Prof. Yang Chen](https://yangchenfunstatistics.github.io/yangchen.github.io//))
 
 # Winter 2023:
